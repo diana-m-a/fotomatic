@@ -1,2 +1,2 @@
 # fotomatic
-fotomatic project
+codecademy fotomatic project
